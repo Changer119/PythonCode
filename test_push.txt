@@ -2,4 +2,15 @@ This is test file created in local
 
 I want push it to Github.com
 
-本地和github.com上都有aa.txt文件，现在在本地修改了该文件，如何提交到github.com？
+1，本地和github.com上都有aa.txt文件，现在在本地修改了该文件，如何提交到github.com？
+
+2，我在本地新建了一个文件bb.txt，我如何提交该文件到github.com？
+
+=========================================================================================
+
+以上2个问题的答案是一样的：（4部曲）
+step1：cd进入到文件的目录下；
+step2：cmd>git add .	//将路径下所有有修改的文件加入到git系统中
+step3：cmd>git commit -m "你提交的说明文字"		//将step2添加到git系统中的文件，提交到本地的git系统
+step3: cmd>git push origin master	//最后一步才是提交到github服务器
+
