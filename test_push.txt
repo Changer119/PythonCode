@@ -1,3 +1,5 @@
 This is test file created in local
 
 I want push it to Github.com
+
+本地和github.com上都有aa.txt文件，现在在本地修改了该文件，如何提交到github.com？
