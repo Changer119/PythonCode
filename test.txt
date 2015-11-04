@@ -1,3 +1,0 @@
-This is my test.txt created in local repository. 
-
-And i commit this file to github.com

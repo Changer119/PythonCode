@@ -1,0 +1,4 @@
+server.ip = 192.168.20.49
+server.port = 8080
+user.name = fcjiang
+user.password = 021112
