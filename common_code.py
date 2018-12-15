@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# 获取当前日期-时间
+# 获取当前日期-时间2222
 # import time
 # nowDate = time.strftime('%Y-%m-%d')
 # nowTime = time.strftime('%H:%M:%S')
